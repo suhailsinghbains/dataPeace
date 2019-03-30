@@ -1,0 +1,19 @@
+.Main{
+    padding: 500px;
+    padding-top: 0px;
+}
+.MainContainer{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+.MaxWidth{
+    text-align: left;
+    display: inline;
+    min-width: 50%;
+}
+.MaxWidth1{
+    text-align: right;
+    display: inline;
+    min-width: 50%;
+}

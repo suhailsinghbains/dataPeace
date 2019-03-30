@@ -1,0 +1,11 @@
+table, td, th {
+    border: solid 1px black;
+    padding: 3px;
+    margin: 15px;
+  }
+  .myClass{
+    margin: 10px;
+    font-size: 1.25em;
+    width: 10px;
+    color: teal;
+  }
